@@ -160,7 +160,7 @@
 				<key>destinationuid</key>
 				<string>948DE47B-021E-4F2A-A25C-12EDCC796859</string>
 				<key>modifiers</key>
-				<integer>131072</integer>
+				<integer>8388608</integer>
 				<key>modifiersubtext</key>
 				<string>Delete Entry</string>
 				<key>vitoclose</key>
@@ -700,7 +700,7 @@ fi
 				<key>fontsizing</key>
 				<integer>0</integer>
 				<key>footertext</key>
-				<string>↩ Copy to Clipboard · ⌘↩ Copy and Paste to Frontmost App · ⇧↩ Delete Entry</string>
+				<string>↩ Copy to Clipboard · ⌘↩ Copy and Paste to Frontmost App · fn↩ Delete Entry</string>
 				<key>inputfile</key>
 				<string></string>
 				<key>inputtype</key>
@@ -864,7 +864,7 @@ Search for archived Clipboard History text entries via the `clipex` keyword. Pre
 
 * &lt;kbd&gt;↩&lt;/kbd&gt; Copy to clipboard.
 * &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Copy and paste to frontmost app.
-* &lt;kbd&gt;⇧&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Delete entry from the archive.
+* &lt;kbd&gt;fn&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Delete entry from the archive.
 * &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;⌃&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Force archive update.</string>
 	<key>uidata</key>
 	<dict>
