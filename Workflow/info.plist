@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.alfredapp.vitor.clipboardhistoryextender</string>
+	<key>connections</key>
+	<dict>
+		<key>0B4332C0-7D11-4C50-B55A-7C59C7A16EC0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>392D7BB3-CDB0-4775-BB08-D54D98C26CFC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>fileexists</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6E0604CF-5CDE-4ABE-8F79-28C4DEEF3C59</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1F1E2458-16D9-4707-8F08-053FACFBAF09</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FF0E4206-57D9-4F5C-84F2-16D68A65C999</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>28B76F58-449E-406E-B30C-70F706B86BA6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D0B9BEF6-78CC-4699-A9E9-015C5E0C9082</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>392D7BB3-CDB0-4775-BB08-D54D98C26CFC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D0B9BEF6-78CC-4699-A9E9-015C5E0C9082</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3EB29BEF-085E-402F-83D1-978C6D87287C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB835B81-26CE-4E1B-86C6-BFB8BEFE18B7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>412162AD-062C-4CF7-80D5-D54133B2768E</key>
+		<array/>
+		<key>627D350E-F8D2-48AB-9D21-118DFE466026</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E6EB5C7E-49FC-41FA-A832-462EA26A1CD6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6E0604CF-5CDE-4ABE-8F79-28C4DEEF3C59</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>28B76F58-449E-406E-B30C-70F706B86BA6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6F93F8F1-E696-476B-8CCC-7225F0EA26F7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DEF6F150-A15E-4025-8B65-581564B061D4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A117F7AE-8424-4858-9827-B8119662F64A</string>
+				<key>modifiers</key>
+				<integer>1835008</integer>
+				<key>modifiersubtext</key>
+				<string>Force Archive Now</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>71D6C133-DEFB-4180-A951-33D784F5F3A5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D2058586-E2A9-4343-AFAF-6E0C8AC1964D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1F1E2458-16D9-4707-8F08-053FACFBAF09</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Copy and Paste to Frontmost App</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>948DE47B-021E-4F2A-A25C-12EDCC796859</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>Delete Entry</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>948DE47B-021E-4F2A-A25C-12EDCC796859</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FF0E4206-57D9-4F5C-84F2-16D68A65C999</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A117F7AE-8424-4858-9827-B8119662F64A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DEF6F150-A15E-4025-8B65-581564B061D4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ABE81766-C718-47D5-92F9-0232419796EF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F0CC3C40-3208-4F38-B2E1-F6C83D7568C9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BB835B81-26CE-4E1B-86C6-BFB8BEFE18B7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>412162AD-062C-4CF7-80D5-D54133B2768E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B82EFA9D-0860-492D-9EE1-A3309B2EF39E</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D0B9BEF6-78CC-4699-A9E9-015C5E0C9082</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3EB29BEF-085E-402F-83D1-978C6D87287C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D2058586-E2A9-4343-AFAF-6E0C8AC1964D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FF0E4206-57D9-4F5C-84F2-16D68A65C999</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DEF6F150-A15E-4025-8B65-581564B061D4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ABE81766-C718-47D5-92F9-0232419796EF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>96BBAD1B-523F-4BAB-964C-A687E49C6FEE</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>71D6C133-DEFB-4180-A951-33D784F5F3A5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E6EB5C7E-49FC-41FA-A832-462EA26A1CD6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F0CC3C40-3208-4F38-B2E1-F6C83D7568C9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F0CC3C40-3208-4F38-B2E1-F6C83D7568C9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0B4332C0-7D11-4C50-B55A-7C59C7A16EC0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FF0E4206-57D9-4F5C-84F2-16D68A65C999</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3EB29BEF-085E-402F-83D1-978C6D87287C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Vítor Galvão</string>
+	<key>description</key>
+	<string>Backup and view Clipboard History text items</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Clipboard History Extender</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Checks
+if [[ -z "${alfred_workflow_bundleid}" ]]; then
+  echo 'Workflow is missing bundle identifier!' &gt;&amp;2
+  exit 1
+fi
+
+# Plist contents
+read -r -d '' plist_contents &lt;&lt;ENDPLIST
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+    &lt;key&gt;Label&lt;/key&gt;
+    &lt;string&gt;${alfred_workflow_bundleid}&lt;/string&gt;
+    &lt;key&gt;ProgramArguments&lt;/key&gt;
+    &lt;array&gt;
+        &lt;string&gt;/usr/bin/osascript&lt;/string&gt;
+        &lt;string&gt;-l&lt;/string&gt;
+        &lt;string&gt;JavaScript&lt;/string&gt;
+        &lt;string&gt;-e&lt;/string&gt;
+        &lt;string&gt;
+          function run(argv) {
+            try {
+              const alfred = Application(&amp;quot;com.runningwithcrayons.Alfred&amp;quot;)
+              if (alfred.running()) alfred.runTrigger(argv[1], { inWorkflow: argv[0] })
+            } catch {
+              const fileManager = $.NSFileManager.defaultManager
+              const plistFile = fileManager.homeDirectoryForCurrentUser.path.js + &amp;quot;/Library/LaunchAgents/&amp;quot; + argv[0] + &amp;quot;.plist&amp;quot;
+              fileManager.removeItemAtPathError(plistFile, undefined)
+            }
+          }
+        &lt;/string&gt;
+        &lt;string&gt;${alfred_workflow_bundleid}&lt;/string&gt;
+        &lt;string&gt;backup_clipboard&lt;/string&gt;
+    &lt;/array&gt;
+    &lt;key&gt;StartCalendarInterval&lt;/key&gt;
+    &lt;dict&gt;
+        &lt;key&gt;Hour&lt;/key&gt;
+        &lt;integer&gt;20&lt;/integer&gt;
+        &lt;key&gt;Minute&lt;/key&gt;
+        &lt;integer&gt;0&lt;/integer&gt;
+    &lt;/dict&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+ENDPLIST
+
+# Main
+readonly launchagents_dir="${HOME}/Library/LaunchAgents"
+readonly plist_file="${launchagents_dir}/${alfred_workflow_bundleid}.plist"
+
+# Exit early if plist exists
+[[ -f "${plist_file}" ]] &amp;&amp; exit 0
+
+# Install agent
+mkdir -p "${launchagents_dir}"
+echo "${plist_contents}" &gt; "${plist_file}"
+launchctl bootstrap "gui/$(id -u "${USER}")" "${plist_file}"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3EB29BEF-085E-402F-83D1-978C6D87287C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application id "com.runningwithcrayons.Alfred" to reload workflow (system attribute "alfred_workflow_bundleid")</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>412162AD-062C-4CF7-80D5-D54133B2768E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly tmp_db="$(mktemp)"
+trap '/bin/rm "${tmp_db}"' EXIT
+
+/bin/cp "${HOME}/Library/Application Support/Alfred/Databases/clipboard.alfdb" "${tmp_db}"
+
+/usr/bin/sqlite3 \
+  "${alfred_workflow_data}/clipboard.alfdb" \
+  "ATTACH database '${tmp_db}' AS source;
+   INSERT INTO clipboard SELECT item, ts, apppath FROM source.clipboard WHERE dataType IS 0;
+   DETACH DATABASE source;
+   DELETE FROM clipboard WHERE rowid NOT IN (
+     SELECT MAX(rowid) 
+     FROM clipboard
+     GROUP BY item
+   );"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D0B9BEF6-78CC-4699-A9E9-015C5E0C9082</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
+				<key>triggerid</key>
+				<string>backup_clipboard</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>627D350E-F8D2-48AB-9D21-118DFE466026</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>E6EB5C7E-49FC-41FA-A832-462EA26A1CD6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:start_archive}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>5</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>B82EFA9D-0860-492D-9EE1-A3309B2EF39E</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string></string>
+				<key>hideelse</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>BB835B81-26CE-4E1B-86C6-BFB8BEFE18B7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>392D7BB3-CDB0-4775-BB08-D54D98C26CFC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/bin/sqlite3 \
+  "${alfred_workflow_data}/clipboard.alfdb" \
+  'CREATE TABLE clipboard(item, ts decimal, apppath);'</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>28B76F58-449E-406E-B30C-70F706B86BA6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>tasksettings</key>
+				<dict>
+					<key>target_path</key>
+					<string>{const:alfred_workflow_data}</string>
+				</dict>
+				<key>taskuid</key>
+				<string>com.alfredapp.automation.core/files-and-folders/directory.new</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.automation.task</string>
+			<key>uid</key>
+			<string>6E0604CF-5CDE-4ABE-8F79-28C4DEEF3C59</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>fileutivariablename</key>
+				<string></string>
+				<key>outputfileuti</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.file</string>
+			<key>uid</key>
+			<string>0B4332C0-7D11-4C50-B55A-7C59C7A16EC0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>unstackview</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.hidealfred</string>
+			<key>uid</key>
+			<string>ABE81766-C718-47D5-92F9-0232419796EF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{const:alfred_workflow_data}/clipboard.alfdb</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>F0CC3C40-3208-4F38-B2E1-F6C83D7568C9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>{var:clipboard_keyword}</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>if [[ ! -f "${alfred_workflow_data}/clipboard.alfdb" ]]
+then
+  printf '{ "items": [{
+    "variables": { "start_archive": 1 },
+    "title": "No Clipboard Archive Found",
+    "subtitle": "Press ↩ to initiate",
+  }]}'
+
+  exit 0
+fi
+
+/usr/bin/sqlite3 \
+  "${alfred_workflow_data}/clipboard.alfdb" \
+  "SELECT JSON_OBJECT('cache', JSON_OBJECT('seconds', 3600, 'loosereload', true),
+    'items', JSON_GROUP_ARRAY(JSON_OBJECT(
+      'title', item,
+      -- 978307200 is timeIntervalSinceReferenceDate in Unix time
+      'subtitle', strftime('%Y/%m/%d %H:%M:%S', datetime(ts + 978307200, 'unixepoch')),
+      'arg', item,
+      'icon', JSON_OBJECT(
+        'path', apppath,
+        'type', 'fileicon'),
+      'variables', JSON_OBJECT('rowid', rowid))))
+  AS JSON_RESULT FROM (
+    SELECT item, apppath, rowid, ts
+    FROM clipboard
+    ORDER by ts
+    DESC)"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>View older Clipboard History text items</string>
+				<key>title</key>
+				<string>{const:alfred_workflow_name}</string>
+				<key>type</key>
+				<integer>11</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>6F93F8F1-E696-476B-8CCC-7225F0EA26F7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>behaviour</key>
+				<integer>0</integer>
+				<key>fontmode</key>
+				<integer>0</integer>
+				<key>fontsizing</key>
+				<integer>0</integer>
+				<key>footertext</key>
+				<string>↩ Copy to Clipboard · ⌘↩ Copy and Paste to Frontmost App · ⇧↩ Delete Entry</string>
+				<key>inputfile</key>
+				<string></string>
+				<key>inputtype</key>
+				<integer>0</integer>
+				<key>loadingtext</key>
+				<string></string>
+				<key>outputmode</key>
+				<integer>0</integer>
+				<key>scriptinput</key>
+				<integer>0</integer>
+				<key>spellchecking</key>
+				<integer>0</integer>
+				<key>stackview</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.userinterface.text</string>
+			<key>uid</key>
+			<string>71D6C133-DEFB-4180-A951-33D784F5F3A5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>D2058586-E2A9-4343-AFAF-6E0C8AC1964D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:start_archive}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>5</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Start Archive</string>
+						<key>uid</key>
+						<string>96BBAD1B-523F-4BAB-964C-A687E49C6FEE</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Show item</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>DEF6F150-A15E-4025-8B65-581564B061D4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>FF0E4206-57D9-4F5C-84F2-16D68A65C999</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>start_archive</key>
+					<string>1</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>A117F7AE-8424-4858-9827-B8119662F64A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>1F1E2458-16D9-4707-8F08-053FACFBAF09</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/bin/sqlite3 \
+  "${alfred_workflow_data}/clipboard.alfdb" \
+  "DELETE FROM clipboard where ROWID = ${rowid};"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>948DE47B-021E-4F2A-A25C-12EDCC796859</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>## Setup
+
+Create an ever-expanding copy of your [Clipboard History](https://www.alfredapp.com/help/features/clipboard/) via the `clipex` keyword. A macOS launchd agent will be loaded to update it daily.
+
+![Setting up archives](images/about/setup.png)
+
+## Usage
+
+Search for archived Clipboard History text entries via the `clipex` keyword. Press &lt;kbd&gt;↩&lt;/kbd&gt; to view the full text of an entry in a [Text View](https://www.alfredapp.com/help/workflows/user-interface/text/).
+
+![Searching archives](images/about/search.png)
+
+![Showing Text View](images/about/textview.png)
+
+* &lt;kbd&gt;↩&lt;/kbd&gt; Copy to clipboard.
+* &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Copy and paste to frontmost app.
+* &lt;kbd&gt;⇧&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Delete entry from the archive.
+* &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;⌃&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Force archive update.</string>
+	<key>uidata</key>
+	<dict>
+		<key>0B4332C0-7D11-4C50-B55A-7C59C7A16EC0</key>
+		<dict>
+			<key>xpos</key>
+			<real>655</real>
+			<key>ypos</key>
+			<real>200</real>
+		</dict>
+		<key>1F1E2458-16D9-4707-8F08-053FACFBAF09</key>
+		<dict>
+			<key>xpos</key>
+			<real>780</real>
+			<key>ypos</key>
+			<real>475</real>
+		</dict>
+		<key>28B76F58-449E-406E-B30C-70F706B86BA6</key>
+		<dict>
+			<key>xpos</key>
+			<real>965</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>392D7BB3-CDB0-4775-BB08-D54D98C26CFC</key>
+		<dict>
+			<key>xpos</key>
+			<real>820</real>
+			<key>ypos</key>
+			<real>75</real>
+		</dict>
+		<key>3EB29BEF-085E-402F-83D1-978C6D87287C</key>
+		<dict>
+			<key>note</key>
+			<string>launchd agent</string>
+			<key>xpos</key>
+			<real>1445</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>412162AD-062C-4CF7-80D5-D54133B2768E</key>
+		<dict>
+			<key>note</key>
+			<string>Flush cache</string>
+			<key>xpos</key>
+			<real>1710</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>627D350E-F8D2-48AB-9D21-118DFE466026</key>
+		<dict>
+			<key>xpos</key>
+			<real>50</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>6E0604CF-5CDE-4ABE-8F79-28C4DEEF3C59</key>
+		<dict>
+			<key>xpos</key>
+			<real>780</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>6F93F8F1-E696-476B-8CCC-7225F0EA26F7</key>
+		<dict>
+			<key>xpos</key>
+			<real>50</real>
+			<key>ypos</key>
+			<real>335</real>
+		</dict>
+		<key>71D6C133-DEFB-4180-A951-33D784F5F3A5</key>
+		<dict>
+			<key>xpos</key>
+			<real>515</real>
+			<key>ypos</key>
+			<real>350</real>
+		</dict>
+		<key>948DE47B-021E-4F2A-A25C-12EDCC796859</key>
+		<dict>
+			<key>xpos</key>
+			<real>780</real>
+			<key>ypos</key>
+			<real>610</real>
+		</dict>
+		<key>A117F7AE-8424-4858-9827-B8119662F64A</key>
+		<dict>
+			<key>xpos</key>
+			<real>235</real>
+			<key>ypos</key>
+			<real>445</real>
+		</dict>
+		<key>ABE81766-C718-47D5-92F9-0232419796EF</key>
+		<dict>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>210</real>
+		</dict>
+		<key>BB835B81-26CE-4E1B-86C6-BFB8BEFE18B7</key>
+		<dict>
+			<key>xpos</key>
+			<real>1615</real>
+			<key>ypos</key>
+			<real>75</real>
+		</dict>
+		<key>D0B9BEF6-78CC-4699-A9E9-015C5E0C9082</key>
+		<dict>
+			<key>xpos</key>
+			<real>1165</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>D2058586-E2A9-4343-AFAF-6E0C8AC1964D</key>
+		<dict>
+			<key>xpos</key>
+			<real>780</real>
+			<key>ypos</key>
+			<real>350</real>
+		</dict>
+		<key>DEF6F150-A15E-4025-8B65-581564B061D4</key>
+		<dict>
+			<key>xpos</key>
+			<real>340</real>
+			<key>ypos</key>
+			<real>355</real>
+		</dict>
+		<key>E6EB5C7E-49FC-41FA-A832-462EA26A1CD6</key>
+		<dict>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>75</real>
+		</dict>
+		<key>F0CC3C40-3208-4F38-B2E1-F6C83D7568C9</key>
+		<dict>
+			<key>xpos</key>
+			<real>570</real>
+			<key>ypos</key>
+			<real>210</real>
+		</dict>
+		<key>FF0E4206-57D9-4F5C-84F2-16D68A65C999</key>
+		<dict>
+			<key>xpos</key>
+			<real>1205</real>
+			<key>ypos</key>
+			<real>380</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>clipex</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Clipboard Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>clipboard_keyword</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<string>2024.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/alfredapp/clipboard-history-extender-workflow/</string>
+</dict>
+</plist>
