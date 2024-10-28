@@ -20,5 +20,5 @@ Search for archived Clipboard History text entries via the `clipex` keyword. Pre
 
 * <kbd>↩&#xFE0E;</kbd> Copy to clipboard.
 * <kbd>⌘</kbd><kbd>↩&#xFE0E;</kbd> Copy and paste to frontmost app.
-* <kbd>⇧</kbd><kbd>↩&#xFE0E;</kbd> Delete entry from the archive.
+* <kbd>fn</kbd><kbd>↩&#xFE0E;</kbd> Delete entry from the archive.
 * <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⌃</kbd><kbd>↩&#xFE0E;</kbd> Force archive update.
