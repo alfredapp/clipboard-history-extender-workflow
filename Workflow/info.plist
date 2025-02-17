@@ -1038,7 +1038,7 @@ Search for archived Clipboard History text entries via the `clipex` keyword. Pre
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.2</string>
+	<string>2025.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/clipboard-history-extender-workflow/</string>
 </dict>
