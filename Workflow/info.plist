@@ -657,7 +657,7 @@ fi
     'items', JSON_GROUP_ARRAY(JSON_OBJECT(
       'title', item,
       -- 978307200 is timeIntervalSinceReferenceDate in Unix time
-      'subtitle', strftime('%Y/%m/%d %H:%M:%S', datetime(ts + 978307200, 'unixepoch')),
+      'subtitle', strftime('%Y/%m/%d %H:%M:%S', datetime(ts + 978307200, 'unixepoch'), 'localtime'),
       'arg', item,
       'icon', JSON_OBJECT(
         'path', apppath,
