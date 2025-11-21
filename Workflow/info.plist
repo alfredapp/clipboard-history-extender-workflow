@@ -386,7 +386,7 @@ readonly plist_file="${launchagents_dir}/${alfred_workflow_bundleid}.plist"
 # Install agent
 mkdir -p "${launchagents_dir}"
 echo "${plist_contents}" &gt; "${plist_file}"
-launchctl bootstrap "gui/$(id -u "${USER}")" "${plist_file}"</string>
+launchctl bootstrap "gui/${UID}" "${plist_file}"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
